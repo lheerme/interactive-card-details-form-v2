@@ -7,7 +7,7 @@
 Este projeto é um formulário interativo desenvolvido para facilitar o cadastro de informações do seu cartão de crédito. Utilizando tecnologias modernas como React, Typescript, TailwindCSS, React Hook Form e Zod, o formulário oferece uma experiência intuitiva e eficiente.
 
 [Link do Desafio](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw)
-[Link Live]()
+[Link Live](https://interactive-card-details-form-v2.vercel.app)
 
 ## Funcionalidades
 
